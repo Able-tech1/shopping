@@ -522,12 +522,12 @@ position: relative;
 
 }
 
-.number {
+/* .number {
     display: flex;
     align-items: center;
     gap: 74px;
     padding-top: 40px;
-}
+} */
 
 .mock {
     font-size: 16px;
@@ -834,11 +834,11 @@ gap: 8px,12px; */
     padding-left: 0px;
 }
 
-.everything {
+/* .everything {
     display: flex;
     gap: 18px;
     padding-top: 0px;
-}
+} */
 
 .enter {
     padding-bottom: 48px;
@@ -1599,14 +1599,14 @@ gap: 8px,12px; */
 
     }
 
-    .everything {
+    /* .everything {
         display: grid;
         gap: px;
         padding-top: 0px;
         align-items: center;
         flex-wrap: wrap;
         grid-template-columns: 1fr 1fr;
-    }
+    } */
 
     .orange {
         color: #101828;
@@ -1687,7 +1687,7 @@ gap: 8px,12px; */
     }
 
 
-    .number {
+    /* .number {
         display: grid;
         align-items: center;
         grid-template-columns: 1fr 1fr;
@@ -1696,7 +1696,7 @@ gap: 8px,12px; */
         padding-top: 40px;
         width: 430px;
         /* background-color: red; */
-    }
+    } */
 
     /* .one{
         min-width: 89px;
